@@ -1,0 +1,18 @@
+html, body {
+    max-width: 100%;
+    padding: 20px;
+    overflow-x: hidden;
+}
+
+.App {
+    width: 100%;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ParticipantTable {
+    min-width: 450px;
+}

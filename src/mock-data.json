@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Charlie",
+        "totalTime": 120,
+        "usedTime": 0,
+        "isActive": false
+    },
+    {
+        "name": "Spencer",
+        "totalTime": 120,
+        "usedTime": 0,
+        "isActive": false
+    }
+]
